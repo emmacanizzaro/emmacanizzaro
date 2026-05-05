@@ -1,12 +1,12 @@
 # Emmanuel Canizzaro
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&pause=1200&color=0A7EA4&center=true&vCenter=true&width=980&lines=Frontend+Developer+focused+on+results;Landing+Pages+that+turn+visits+into+customers;Modern%2C+fast+and+clear+websites;Web+design+for+businesses%2C+entrepreneurs+and+churches" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&pause=1200&color=0A7EA4&center=true&vCenter=true&width=980&lines=I+build+websites+that+sell%2C+not+just+look+good;Landing+Pages+that+turn+visits+into+customers;Modern+web+experiences+for+businesses+and+churches;Frontend+Developer+focused+on+growth+and+clarity" alt="Typing SVG" />
 </p>
 
 <p align="center">
   Frontend Developer based in Argentina.<br/>
-  I help businesses and entrepreneurs sell more through clear, fast and attractive websites.
+  I help businesses, entrepreneurs and churches grow with modern websites built for conversion.
 </p>
 
 <p align="center">
@@ -15,54 +15,58 @@
   <a href="https://wa.me/5492964488484"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-+54%209%202964%20488484-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
-## What I Can Help You With
+## Services
 
-- Landing pages focused on lead generation.
-- Modern websites with clear messaging and strong UX.
-- Real performance and speed optimization.
-- Integrations with forms, WhatsApp, and external tools.
-- Interfaces that communicate value and build trust.
+- High-converting landing pages for campaigns and local businesses.
+- Modern websites with clear messaging, strong UX and mobile-first structure.
+- Performance optimization for faster load times and better retention.
+- Integrations with forms, WhatsApp, analytics and external tools.
+- Conversion-focused UI that builds trust and drives action.
 
-## Main Stack
+## Tech Snapshot
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nest,tailwind,git,github,vscode" />
 </p>
 
-## Featured Projects
+- Frontend: React, Next.js, TypeScript, Tailwind CSS
+- Backend: Node.js, NestJS, Prisma
+- Product focus: UX clarity, SEO, speed and business outcomes
+
+## Selected Projects
 
 ### SongList
 
-App to organize worship teams and meetings: songs, keys, planning and collaboration.
+Product for worship teams to manage meetings, songs, keys and collaboration in one place.
 
 - Stack: TypeScript, Next.js, NestJS, Prisma
 - Repository: https://github.com/emmacanizzaro/SongList
 
 ### CasaUniverso
 
-Web project built on a clean foundation and designed to scale.
+Web project built with a clean architecture and scalability in mind.
 
 - Stack: TypeScript
 - Repository: https://github.com/emmacanizzaro/CasaUniverso
 
 ### DevIAR-Web
 
-Public website with a practical and direct approach.
+Public website with a practical structure and clear communication.
 
 - Stack: HTML, CSS
 - Repository: https://github.com/emmacanizzaro/DevIAR-Web
 
 ### RedFormandoWeb
 
-Static website focused on effective digital presence.
+Static website focused on strong digital presence and user clarity.
 
 - Stack: HTML, CSS, JavaScript
 - Repository: https://github.com/emmacanizzaro/RedFormandoWeb
 
 ## How I Work
 
-I prioritize simple, functional and well-designed solutions.
-Less visual noise, more clarity and measurable results.
+I prioritize simple and well-executed solutions aligned with business goals.
+Less visual noise, more clarity, speed and measurable results.
 
 ## GitHub Activity
 
@@ -73,4 +77,5 @@ Less visual noise, more clarity and measurable results.
 
 ---
 
-If you want to collaborate or work together, message me on LinkedIn or WhatsApp.
+Need a website that helps your business grow?
+Message me on LinkedIn or WhatsApp.
