@@ -1,12 +1,12 @@
 # Emmanuel Canizzaro
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&pause=1200&color=0A7EA4&center=true&vCenter=true&width=980&lines=Desarrollador+Frontend+orientado+a+resultados;Landing+Pages+que+convierten+visitas+en+clientes;Sitios+web+modernos%2C+rapidos+y+claros;Diseno+web+para+negocios%2C+emprendedores+e+iglesias" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&pause=1200&color=0A7EA4&center=true&vCenter=true&width=980&lines=Frontend+Developer+focused+on+results;Landing+Pages+that+turn+visits+into+customers;Modern%2C+fast+and+clear+websites;Web+design+for+businesses%2C+entrepreneurs+and+churches" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  Desarrollador Frontend en Argentina.<br/>
-  Ayudo a negocios y emprendedores a vender mas con sitios web claros, rapidos y atractivos.
+  Frontend Developer based in Argentina.<br/>
+  I help businesses and entrepreneurs sell more through clear, fast and attractive websites.
 </p>
 
 <p align="center">
@@ -15,56 +15,56 @@
   <a href="https://wa.me/5492964488484"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-+54%209%202964%20488484-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
-## En Que Puedo Ayudarte
+## What I Can Help You With
 
-- Landing pages enfocadas en captar clientes.
-- Sitios web modernos con mensaje claro y buena experiencia de usuario.
-- Optimizacion de velocidad y rendimiento real.
-- Integraciones con formularios, WhatsApp y herramientas externas.
-- Interfaces que comunican valor y generan confianza.
+- Landing pages focused on lead generation.
+- Modern websites with clear messaging and strong UX.
+- Real performance and speed optimization.
+- Integrations with forms, WhatsApp, and external tools.
+- Interfaces that communicate value and build trust.
 
-## Stack Principal
+## Main Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nest,tailwind,git,github,vscode" />
 </p>
 
-## Proyectos Destacados
+## Featured Projects
 
 ### SongList
 
-App para organizar equipos de alabanza y reuniones: canciones, tonos, planificacion y colaboracion.
+App to organize worship teams and meetings: songs, keys, planning and collaboration.
 
 - Stack: TypeScript, Next.js, NestJS, Prisma
-- Repositorio: https://github.com/emmacanizzaro/SongList
+- Repository: https://github.com/emmacanizzaro/SongList
 
 ### CasaUniverso
 
-Proyecto web construido con una base limpia y pensado para escalar.
+Web project built on a clean foundation and designed to scale.
 
 - Stack: TypeScript
-- Repositorio: https://github.com/emmacanizzaro/CasaUniverso
+- Repository: https://github.com/emmacanizzaro/CasaUniverso
 
 ### DevIAR-Web
 
-Sitio web publico con enfoque practico y directo.
+Public website with a practical and direct approach.
 
 - Stack: HTML, CSS
-- Repositorio: https://github.com/emmacanizzaro/DevIAR-Web
+- Repository: https://github.com/emmacanizzaro/DevIAR-Web
 
 ### RedFormandoWeb
 
-Website estatico orientado a presencia digital efectiva.
+Static website focused on effective digital presence.
 
 - Stack: HTML, CSS, JavaScript
-- Repositorio: https://github.com/emmacanizzaro/RedFormandoWeb
+- Repository: https://github.com/emmacanizzaro/RedFormandoWeb
 
-## Mi Forma De Trabajo
+## How I Work
 
-Priorizo soluciones simples, funcionales y bien disenadas.
-Menos relleno visual, mas claridad y resultados medibles.
+I prioritize simple, functional and well-designed solutions.
+Less visual noise, more clarity and measurable results.
 
-## Actividad En GitHub
+## GitHub Activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=emmacanizzaro&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
@@ -73,4 +73,4 @@ Menos relleno visual, mas claridad y resultados medibles.
 
 ---
 
-Si quieres colaborar o trabajar juntos, escribeme por LinkedIn o WhatsApp.
+If you want to collaborate or work together, message me on LinkedIn or WhatsApp.
