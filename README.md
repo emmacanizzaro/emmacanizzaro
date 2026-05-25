@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Emmanuel%20Canizzaro%20DEV%C2%B7IAR&fontAlign=50&fontAlignY=35&color=0:0b1220,40:0f172a,75:1d4ed8,100:06b6d4&fontColor=ffffff&desc=Desarrollador%20Web%20Full-Stack&descAlign=50&descAlignY=56" width="100%" />
 
-<h3>Desarrollo productos web modernos, escalables y orientados a resultados reales.</h3>
+<h3>Diseno y desarrollo productos web que mejoran conversion, operacion y crecimiento.</h3>
 
 <p>
   <a href="mailto:emmacanizzaro@gmail.com">
@@ -11,12 +11,16 @@
   <a href="https://www.linkedin.com/in/emmanuel-canizzaro">
     <img src="https://img.shields.io/badge/LinkedIn-Emmanuel%20Canizzaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://wa.me/5492964488484">
+    <img src="https://img.shields.io/badge/WhatsApp-Contacto%20directo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Focus-Web%20Products-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mode-Freelance%20%7C%20Long--term-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mode-Freelance%20%7C%20Long%20term-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Region-Latam%20%7C%20Remote-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reply-24h-111827?style=flat-square" />
 </p>
 
 </div>
@@ -29,74 +33,48 @@
 
 <a id="espanol"></a>
 
-## Perfil profesional
+## Propuesta de valor
 
 Soy Emmanuel Canizzaro DEV·IAR, Desarrollador Web Full-Stack.
-Me enfoco en construir experiencias web con arquitectura solida, rendimiento alto y diseno funcional, para que cada producto digital sea util, mantenible y preparado para crecer.
+Construyo soluciones web para empresas, emprendedores y equipos que necesitan resultados reales: mas conversion, mejor experiencia y una base tecnica escalable.
 
 ---
 
-## Que puedo construir
-
-- Landing pages y sitios corporativos de alto impacto
-- E-commerce optimizado para conversion y experiencia movil
-- Plataformas SaaS con paneles administrativos
-- Optimizacion SEO tecnica y rendimiento web
-- Soluciones web mantenibles con entregas iterativas
-
----
-
-## Servicios para empresas
+## Servicios clave
 
 - Desarrollo de MVP y productos web desde cero
 - Rediseno de sitios y plataformas para mejorar conversion
-- Implementacion de paneles internos para operaciones
+- Implementacion de paneles internos y flujos operativos
 - Mantenimiento evolutivo con mejoras semanales
+- Optimizacion SEO tecnica y performance web
 
-## Cliente ideal
+## Proyectos con impacto
 
-- Negocios que necesitan una web profesional que venda mejor
-- Equipos que requieren velocidad, claridad y continuidad tecnica
-- Proyectos que buscan escalar con base solida y medible
+### SongList
+
+Plataforma para equipos de alabanza enfocada en organizacion y planificacion.
+Impacto: casi 20 equipos gestionan reuniones con mayor orden y profesionalismo.
+
+### Web REDFORMANDO
+
+Rediseno y evolucion continua de sitio institucional.
+Impacto: mejora visual cercana al 40%, codigo actualizado y mejoras semanales.
 
 ---
 
 ## Stack principal
 
-<div align="center">
-
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,docker,vercel" />
 </p>
 
-</div>
-
-- React
-- Next.js
-- TypeScript
-- Node.js
-- Python
-- Docker
-- Vercel
-
 ---
 
-## Proyectos destacados
+## Cliente ideal y forma de trabajo
 
-### SongList
-
-Plataforma para equipos de alabanza enfocada en organizacion y planificacion.
-Resultado: casi 20 equipos de alabanza gestionan mejor sus reuniones y trabajan con una dinamica mas profesional.
-
-### Web REDFORMANDO
-
-Rediseno y evolucion continua de una web institucional.
-Resultado: mejora visual cercana al 40%, codigo profesional y actualizaciones semanales para mantener calidad y crecimiento constante.
-
----
-
-## Como trabajo
-
+- Negocios que necesitan una web profesional que venda mejor
+- Equipos que requieren velocidad, claridad y continuidad tecnica
+- Proyectos que buscan escalar con base solida y medible
 1. Defino objetivos de negocio y necesidades del usuario
 2. Diseno una solucion tecnica clara y escalable
 3. Desarrollo con entregas iterativas y medibles
@@ -111,90 +89,41 @@ Abierto a colaboraciones freelance y proyectos de largo plazo en desarrollo web.
 
 ---
 
-## Contacto
+## Contacto directo
 
 - Email: emmacanizzaro@gmail.com
 - LinkedIn: https://www.linkedin.com/in/emmanuel-canizzaro
+- WhatsApp: https://wa.me/5492964488484
 
 <div align="center">
-  <h3>Si quieres convertir tu idea en una plataforma web seria y escalable, hablemos.</h3>
+  <h3>Cuentame tu objetivo y en 24 horas te envio una propuesta clara de implementacion.</h3>
 </div>
 
 ---
 
 <a id="english"></a>
 
-## Professional Profile
+## Executive Summary
 
 I am Emmanuel Canizzaro DEV·IAR, a Full-Stack Web Developer.
-I build modern web experiences with solid architecture, high performance, and functional design so each digital product is useful, maintainable, and ready to scale.
+I build business-oriented web products focused on conversion, performance, and scalable architecture.
 
 ---
 
-## What I Build
+## Core Services
 
-- High-impact landing pages and corporate websites
-- E-commerce solutions optimized for conversion and mobile UX
-- SaaS platforms with admin dashboards
-- Technical SEO and web performance optimization
-- Maintainable web solutions with iterative delivery
-
----
-
-## Services For Companies
-
-- MVP and web product development from scratch
-- Website and platform redesign to improve conversion
-- Internal dashboard implementation for operations
+- MVP and web product development
+- Website redesign for better conversion
+- Internal dashboards and operational flows
 - Ongoing maintenance with weekly improvements
-
-## Ideal Client
-
-- Businesses that need a professional website that converts better
-- Teams that need speed, clarity, and technical continuity
-- Projects aiming to scale on a solid and measurable foundation
+- Technical SEO and performance optimization
 
 ---
 
-## Core Stack
+## Featured Impact
 
-- React
-- Next.js
-- TypeScript
-- Node.js
-- Python
-- Docker
-- Vercel
-
----
-
-## Featured Projects
-
-### SongList
-
-Platform for worship teams focused on organization and planning.
-Result: nearly 20 worship teams now manage meetings better and work with a more professional workflow.
-
-### REDFORMANDO Website
-
-Continuous redesign and evolution of an institutional website.
-Result: visual improvement close to 40%, professional codebase, and weekly updates to keep quality and growth.
-
----
-
-## How I Work
-
-1. Define business goals and user needs
-2. Design a clear and scalable technical solution
-3. Deliver in iterative and measurable cycles
-4. Optimize speed, SEO, and user experience
-5. Support continuous improvements in production
-
----
-
-## Availability
-
-Open to freelance collaborations and long-term web development projects.
+- SongList: nearly 20 worship teams now run meetings with a more professional workflow.
+- REDFORMANDO: visual quality improved by almost 40% with weekly technical updates.
 
 ---
 
@@ -202,7 +131,8 @@ Open to freelance collaborations and long-term web development projects.
 
 - Email: emmacanizzaro@gmail.com
 - LinkedIn: https://www.linkedin.com/in/emmanuel-canizzaro
+- WhatsApp: https://wa.me/5492964488484
 
 <div align="center">
-  <h3>If you want to turn your idea into a serious and scalable web product, let's talk.</h3>
+  <h3>Share your goal and I will send you a clear implementation proposal within 24 hours.</h3>
 </div>
