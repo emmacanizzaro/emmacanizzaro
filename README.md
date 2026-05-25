@@ -13,6 +13,12 @@
   </a>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Focus-Web%20Products-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mode-Freelance%20%7C%20Long--term-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Region-Latam%20%7C%20Remote-111827?style=flat-square" />
+</p>
+
 </div>
 
 <p align="center">
@@ -37,6 +43,21 @@ Me enfoco en construir experiencias web con arquitectura solida, rendimiento alt
 - Plataformas SaaS con paneles administrativos
 - Optimizacion SEO tecnica y rendimiento web
 - Soluciones web mantenibles con entregas iterativas
+
+---
+
+## Servicios para empresas
+
+- Desarrollo de MVP y productos web desde cero
+- Rediseno de sitios y plataformas para mejorar conversion
+- Implementacion de paneles internos para operaciones
+- Mantenimiento evolutivo con mejoras semanales
+
+## Cliente ideal
+
+- Negocios que necesitan una web profesional que venda mejor
+- Equipos que requieren velocidad, claridad y continuidad tecnica
+- Proyectos que buscan escalar con base solida y medible
 
 ---
 
@@ -117,6 +138,21 @@ I build modern web experiences with solid architecture, high performance, and fu
 - SaaS platforms with admin dashboards
 - Technical SEO and web performance optimization
 - Maintainable web solutions with iterative delivery
+
+---
+
+## Services For Companies
+
+- MVP and web product development from scratch
+- Website and platform redesign to improve conversion
+- Internal dashboard implementation for operations
+- Ongoing maintenance with weekly improvements
+
+## Ideal Client
+
+- Businesses that need a professional website that converts better
+- Teams that need speed, clarity, and technical continuity
+- Projects aiming to scale on a solid and measurable foundation
 
 ---
 
