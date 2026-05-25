@@ -15,7 +15,13 @@
 
 </div>
 
+<p align="center">
+  <a href="#espanol">ES</a> | <a href="#english">EN</a>
+</p>
+
 ---
+
+<a id="espanol"></a>
 
 ## Perfil profesional
 
@@ -91,4 +97,76 @@ Abierto a colaboraciones freelance y proyectos de largo plazo en desarrollo web.
 
 <div align="center">
   <h3>Si quieres convertir tu idea en una plataforma web seria y escalable, hablemos.</h3>
+</div>
+
+---
+
+<a id="english"></a>
+
+## Professional Profile
+
+I am Emmanuel Canizzaro DEV·IAR, a Full-Stack Web Developer.
+I build modern web experiences with solid architecture, high performance, and functional design so each digital product is useful, maintainable, and ready to scale.
+
+---
+
+## What I Build
+
+- High-impact landing pages and corporate websites
+- E-commerce solutions optimized for conversion and mobile UX
+- SaaS platforms with admin dashboards
+- Technical SEO and web performance optimization
+- Maintainable web solutions with iterative delivery
+
+---
+
+## Core Stack
+
+- React
+- Next.js
+- TypeScript
+- Node.js
+- Python
+- Docker
+- Vercel
+
+---
+
+## Featured Projects
+
+### SongList
+
+Platform for worship teams focused on organization and planning.
+Result: nearly 20 worship teams now manage meetings better and work with a more professional workflow.
+
+### REDFORMANDO Website
+
+Continuous redesign and evolution of an institutional website.
+Result: visual improvement close to 40%, professional codebase, and weekly updates to keep quality and growth.
+
+---
+
+## How I Work
+
+1. Define business goals and user needs
+2. Design a clear and scalable technical solution
+3. Deliver in iterative and measurable cycles
+4. Optimize speed, SEO, and user experience
+5. Support continuous improvements in production
+
+---
+
+## Availability
+
+Open to freelance collaborations and long-term web development projects.
+
+---
+
+## Contact
+
+- Email: emmacanizzaro@gmail.com
+- LinkedIn: https://www.linkedin.com/in/emmanuel-canizzaro
+
+<div align="center">
+  <h3>If you want to turn your idea into a serious and scalable web product, let's talk.</h3>
 </div>
