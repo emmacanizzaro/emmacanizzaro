@@ -1,81 +1,94 @@
-# Emmanuel Canizzaro
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&pause=1200&color=0A7EA4&center=true&vCenter=true&width=980&lines=I+build+websites+that+sell%2C+not+just+look+good;Landing+Pages+that+turn+visits+into+customers;Modern+web+experiences+for+businesses+and+churches;Frontend+Developer+focused+on+growth+and+clarity" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Emmanuel%20Canizzaro%20DEV%C2%B7IAR&fontAlign=50&fontAlignY=35&color=0:0b1220,40:0f172a,75:1d4ed8,100:06b6d4&fontColor=ffffff&desc=Desarrollador%20Web%20Full-Stack&descAlign=50&descAlignY=56" width="100%" />
+
+<h3>Desarrollo productos web modernos, escalables y orientados a resultados reales.</h3>
+
+<p>
+  <a href="mailto:emmacanizzaro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactar-0f172a?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/emmanuel-canizzaro">
+    <img src="https://img.shields.io/badge/LinkedIn-Emmanuel%20Canizzaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
-<p align="center">
-  Frontend Developer based in Argentina.<br/>
-  I help businesses, entrepreneurs and churches grow with modern websites built for conversion.
-</p>
-
-<p align="center">
-  <a href="mailto:emmacanizzaro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-emmacanizzaro%40gmail.com-0A7EA4?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/emmacanizzaro"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Emmanuel%20Canizzaro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://wa.me/5492964488484"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-+54%209%202964%20488484-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</p>
-
-## Services
-
-- High-converting landing pages for campaigns and local businesses.
-- Modern websites with clear messaging, strong UX and mobile-first structure.
-- Performance optimization for faster load times and better retention.
-- Integrations with forms, WhatsApp, analytics and external tools.
-- Conversion-focused UI that builds trust and drives action.
-
-## Tech Snapshot
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nest,tailwind,git,github,vscode" />
-</p>
-
-- Frontend: React, Next.js, TypeScript, Tailwind CSS
-- Backend: Node.js, NestJS, Prisma
-- Product focus: UX clarity, SEO, speed and business outcomes
-
-## Selected Projects
-
-### SongList
-
-Product for worship teams to manage meetings, songs, keys and collaboration in one place.
-
-- Stack: TypeScript, Next.js, NestJS, Prisma
-- Repository: https://github.com/emmacanizzaro/SongList
-
-### CasaUniverso
-
-Web project built with a clean architecture and scalability in mind.
-
-- Stack: TypeScript
-- Repository: https://github.com/emmacanizzaro/CasaUniverso
-
-### DevIAR-Web
-
-Public website with a practical structure and clear communication.
-
-- Stack: HTML, CSS
-- Repository: https://github.com/emmacanizzaro/DevIAR-Web
-
-### RedFormandoWeb
-
-Static website focused on strong digital presence and user clarity.
-
-- Stack: HTML, CSS, JavaScript
-- Repository: https://github.com/emmacanizzaro/RedFormandoWeb
-
-## How I Work
-
-I prioritize simple and well-executed solutions aligned with business goals.
-Less visual noise, more clarity, speed and measurable results.
-
-## GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=emmacanizzaro&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmacanizzaro&layout=compact&theme=transparent&hide_border=true" />
-</p>
+</div>
 
 ---
 
-Need a website that helps your business grow?
-Message me on LinkedIn or WhatsApp.
+## Perfil profesional
+
+Soy Emmanuel Canizzaro DEV·IAR, Desarrollador Web Full-Stack.
+Me enfoco en construir experiencias web con arquitectura solida, rendimiento alto y diseno funcional, para que cada producto digital sea util, mantenible y preparado para crecer.
+
+---
+
+## Que puedo construir
+
+- Landing pages y sitios corporativos de alto impacto
+- E-commerce optimizado para conversion y experiencia movil
+- Plataformas SaaS con paneles administrativos
+- Optimizacion SEO tecnica y rendimiento web
+- Soluciones web mantenibles con entregas iterativas
+
+---
+
+## Stack principal
+
+<div align="center">
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,docker,vercel" />
+</p>
+
+</div>
+
+- React
+- Next.js
+- TypeScript
+- Node.js
+- Python
+- Docker
+- Vercel
+
+---
+
+## Proyectos destacados
+
+### SongList
+
+Plataforma para equipos de alabanza enfocada en organizacion y planificacion.
+Resultado: casi 20 equipos de alabanza gestionan mejor sus reuniones y trabajan con una dinamica mas profesional.
+
+### Web REDFORMANDO
+
+Rediseno y evolucion continua de una web institucional.
+Resultado: mejora visual cercana al 40%, codigo profesional y actualizaciones semanales para mantener calidad y crecimiento constante.
+
+---
+
+## Como trabajo
+
+1. Defino objetivos de negocio y necesidades del usuario
+2. Diseno una solucion tecnica clara y escalable
+3. Desarrollo con entregas iterativas y medibles
+4. Optimizo velocidad, SEO y experiencia de uso
+5. Acompano mejoras continuas en produccion
+
+---
+
+## Disponibilidad
+
+Abierto a colaboraciones freelance y proyectos de largo plazo en desarrollo web.
+
+---
+
+## Contacto
+
+- Email: emmacanizzaro@gmail.com
+- LinkedIn: https://www.linkedin.com/in/emmanuel-canizzaro
+
+<div align="center">
+  <h3>Si quieres convertir tu idea en una plataforma web seria y escalable, hablemos.</h3>
+</div>
