@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Emmanuel%20Canizzaro%20DEV%C2%B7IAR&fontAlign=50&fontAlignY=35&color=0:0b1220,40:0f172a,75:1d4ed8,100:06b6d4&fontColor=ffffff&desc=Desarrollador%20Web%20Full-Stack&descAlign=50&descAlignY=56" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Emmanuel%20Canizzaro&fontSize=62&fontAlign=50&fontAlignY=35&color=0:0b1220,40:0f172a,75:1d4ed8,100:06b6d4&fontColor=ffffff&desc=DEV%C2%B7IAR%20%7C%20Desarrollador%20Web%20Full-Stack&descAlign=50&descAlignY=58" width="100%" />
 
 <h3>Diseno y desarrollo productos web que mejoran conversion, operacion y crecimiento.</h3>
 
@@ -75,6 +75,7 @@ Impacto: mejora visual cercana al 40%, codigo actualizado y mejoras semanales.
 - Negocios que necesitan una web profesional que venda mejor
 - Equipos que requieren velocidad, claridad y continuidad tecnica
 - Proyectos que buscan escalar con base solida y medible
+
 1. Defino objetivos de negocio y necesidades del usuario
 2. Diseno una solucion tecnica clara y escalable
 3. Desarrollo con entregas iterativas y medibles
