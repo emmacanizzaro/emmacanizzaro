@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Emmanuel%20Canizzaro&fontSize=62&fontAlign=50&fontAlignY=35&color=0:0b1220,40:0f172a,75:1d4ed8,100:06b6d4&fontColor=ffffff&desc=DEV%C2%B7IAR%20%7C%20Desarrollador%20Web%20Full-Stack&descAlign=50&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Emmanuel%20Canizzaro&fontSize=62&fontAlign=50&fontAlignY=35&color=0:0b1220,40:0f172a,75:1d4ed8,100:06b6d4&fontColor=ffffff&desc=DEV%C2%B7IAR%20%7C%20Desarrollador%20Web%20Frontend&descAlign=50&descAlignY=58" width="100%" />
 
-<h3>Diseno y desarrollo productos web que mejoran conversion, operacion y crecimiento.</h3>
+<h3>Diseño y desarrollo sitios y aplicaciones web con Next.js y TypeScript.</h3>
 
 <p>
   <a href="mailto:emmacanizzaro@gmail.com">
@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Web%20Products-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%7C%20Next.js-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Mode-Freelance%20%7C%20Long%20term-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Region-Latam%20%7C%20Remote-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Reply-24h-111827?style=flat-square" />
@@ -35,37 +35,36 @@
 
 ## Propuesta de valor
 
-Soy Emmanuel Canizzaro DEV·IAR, Desarrollador Web Full-Stack.
-Construyo soluciones web para empresas, emprendedores y equipos que necesitan resultados reales: mas conversion, mejor experiencia y una base tecnica escalable.
+Soy Emmanuel Canizzaro DEV·IAR, desarrollador web frontend.
+Construyo sitios y aplicaciones web para empresas, emprendedores y equipos que necesitan resultados reales: más conversión, mejor experiencia y una base técnica ordenada.
 
 ---
 
 ## Servicios clave
 
-- Desarrollo de MVP y productos web desde cero
-- Rediseno de sitios y plataformas para mejorar conversion
-- Implementacion de paneles internos y flujos operativos
+- Desarrollo de sitios y aplicaciones web desde cero
+- Rediseño de sitios para mejorar la conversión
+- Paneles internos y flujos operativos
 - Mantenimiento evolutivo con mejoras semanales
-- Optimizacion SEO tecnica y performance web
+- Optimización de SEO técnico y rendimiento web
 
-## Proyectos con impacto
+## Proyectos
 
-### SongList
+### [SongList](https://github.com/emmacanizzaro/SongList)
 
-Plataforma para equipos de alabanza enfocada en organizacion y planificacion.
-Impacto: casi 20 equipos gestionan reuniones con mayor orden y profesionalismo.
+Plataforma para equipos de alabanza: planificación de reuniones, canciones con transposición de acordes y asignación de músicos.
+Impacto: casi 20 equipos organizan sus reuniones con ella.
 
-### Web REDFORMANDO
+### [Web REDFORMANDO](https://www.redformando.com/)
 
-Rediseno y evolucion continua de sitio institucional.
-Impacto: mejora visual cercana al 40%, codigo actualizado y mejoras semanales.
+Desarrollo y evolución continua del sitio institucional de una red ministerial: eventos, inscripciones, blog y catálogo de recursos.
 
 ---
 
 ## Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,python,docker,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,python,git,vercel" />
 </p>
 
 ---
@@ -73,14 +72,14 @@ Impacto: mejora visual cercana al 40%, codigo actualizado y mejoras semanales.
 ## Cliente ideal y forma de trabajo
 
 - Negocios que necesitan una web profesional que venda mejor
-- Equipos que requieren velocidad, claridad y continuidad tecnica
-- Proyectos que buscan escalar con base solida y medible
+- Equipos que requieren velocidad, claridad y continuidad técnica
+- Proyectos que buscan crecer sobre una base sólida y medible
 
 1. Defino objetivos de negocio y necesidades del usuario
-2. Diseno una solucion tecnica clara y escalable
-3. Desarrollo con entregas iterativas y medibles
+2. Diseño una solución técnica clara
+3. Desarrollo con entregas iterativas
 4. Optimizo velocidad, SEO y experiencia de uso
-5. Acompano mejoras continuas en produccion
+5. Acompaño mejoras continuas en producción
 
 ---
 
@@ -97,23 +96,23 @@ Abierto a colaboraciones freelance y proyectos de largo plazo en desarrollo web.
 - WhatsApp: https://wa.me/5492964488484
 
 <div align="center">
-  <h3>Cuentame tu objetivo y en 24 horas te envio una propuesta clara de implementacion.</h3>
+  <h3>Cuéntame tu objetivo y en 24 horas te envío una propuesta clara de implementación.</h3>
 </div>
 
 ---
 
 <a id="english"></a>
 
-## Executive Summary
+## Summary
 
-I am Emmanuel Canizzaro DEV·IAR, a Full-Stack Web Developer.
-I build business-oriented web products focused on conversion, performance, and scalable architecture.
+I am Emmanuel Canizzaro DEV·IAR, a frontend web developer.
+I build business-oriented websites and web apps with Next.js and TypeScript, focused on conversion, performance and maintainable code.
 
 ---
 
 ## Core Services
 
-- MVP and web product development
+- Website and web app development
 - Website redesign for better conversion
 - Internal dashboards and operational flows
 - Ongoing maintenance with weekly improvements
@@ -121,10 +120,10 @@ I build business-oriented web products focused on conversion, performance, and s
 
 ---
 
-## Featured Impact
+## Projects
 
-- SongList: nearly 20 worship teams now run meetings with a more professional workflow.
-- REDFORMANDO: visual quality improved by almost 40% with weekly technical updates.
+- [SongList](https://github.com/emmacanizzaro/SongList): planning platform for worship teams, used by nearly 20 teams.
+- [REDFORMANDO](https://www.redformando.com/): institutional website for a ministry network, with events, registrations, blog and resources.
 
 ---
 
