@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Focus-Frontend%20%7C%20Next.js-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Mode-Freelance%20%7C%20Long%20term-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Region-Latam%20%7C%20Remote-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reply-24h-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reply-48h-111827?style=flat-square" />
 </p>
 
 </div>
@@ -96,7 +96,7 @@ Abierto a colaboraciones freelance y proyectos de largo plazo en desarrollo web.
 - WhatsApp: https://wa.me/5492964488484
 
 <div align="center">
-  <h3>Cuéntame tu objetivo y en 24 horas te envío una propuesta clara de implementación.</h3>
+  <h3>Cuéntame tu objetivo y en 48 horas te envío una propuesta clara de implementación.</h3>
 </div>
 
 ---
@@ -134,5 +134,5 @@ I build business-oriented websites and web apps with Next.js and TypeScript, foc
 - WhatsApp: https://wa.me/5492964488484
 
 <div align="center">
-  <h3>Share your goal and I will send you a clear implementation proposal within 24 hours.</h3>
+  <h3>Share your goal and I will send you a clear implementation proposal within 48 hours.</h3>
 </div>
